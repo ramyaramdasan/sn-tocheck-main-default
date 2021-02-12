@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Do Something</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 06:41:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3718a348dbea9410d147e5bd0b96191e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Do Something</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Experiment - Custom App" source="x_rdsp_experiment">01ffbcabdb125410d147e5bd0b9619b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</sys_scope>
+        <sys_update_name>sys_script_client_3718a348dbea9410d147e5bd0b96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-14 05:59:37</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</application>
+        <file_path/>
+        <instance_id>de07355cdb3c581c431011f84896197d</instance_id>
+        <instance_name>sndpp905</instance_name>
+        <name>sys_script_client_3718a348dbea9410d147e5bd0b96191e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client"><sys_script_client action="INSERT_OR_UPDATE"><active>true</active><applies_extended>false</applies_extended><condition/><description/><field/><global>true</global><isolate_script>true</isolate_script><messages/><name>Do Something</name><order/><script/><sys_class_name>sys_script_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-06 06:41:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3718a348dbea9410d147e5bd0b96191e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Do Something</sys_name><sys_overrides/><sys_package display_value="Experiment - Custom App" source="x_rdsp_experiment">01ffbcabdb125410d147e5bd0b9619b2</sys_package><sys_policy/><sys_scope display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</sys_scope><sys_update_name>sys_script_client_3718a348dbea9410d147e5bd0b96191e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-14 05:59:37</sys_updated_on><table/><type/><ui_type>0</ui_type><view/></sys_script_client></record_update>]]></payload>
+        <payload_hash>-9036529</payload_hash>
+        <record_name>Do Something</record_name>
+        <reverted_from/>
+        <source>9dfff0ebdb125410d147e5bd0b961923</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-14 05:59:37</sys_created_on>
+        <sys_id>af6b287edb6e5010e8cf82ba0b9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173eb8d5f8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-14 05:59:37</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>2b6b287e016e5010202cfc954bac5da9</update_guid>
+        <update_guid_history>2b6b287e016e5010202cfc954bac5da9:-9036529,e6a3af12bc625010a7850f5467dad1da:-865154065,b438a3483eea94100338a5a74a78daa5:2074809903</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-17 09:28:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>00f29b7dc27d404880c2e8e752061e90</sys_id>
+        <sys_metadata>3718a348dbea9410d147e5bd0b96191e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Do Something</sys_name>
+        <sys_package display_value="Experiment - Custom App" source="x_rdsp_experiment">01ffbcabdb125410d147e5bd0b9619b2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</sys_scope>
+        <sys_scope_delete display_value="">4b7ba4916c544008b783d0b1e8c4e010</sys_scope_delete>
+        <sys_update_name>sys_script_client_3718a348dbea9410d147e5bd0b96191e</sys_update_name>
+        <sys_update_version display_value="sys_script_client_3718a348dbea9410d147e5bd0b96191e">af6b287edb6e5010e8cf82ba0b9619a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-17 09:28:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

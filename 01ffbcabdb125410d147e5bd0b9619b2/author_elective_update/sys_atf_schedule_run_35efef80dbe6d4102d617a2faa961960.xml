@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'Experiment - Custom App' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">f5ef2fc8dba6d4102d617a2faa961920</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 07:14:44</sys_created_on>
+        <sys_id>35efef80dbe6d4102d617a2faa961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Experiment - Custom App" source="x_rdsp_experiment">01ffbcabdb125410d147e5bd0b9619b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_35efef80dbe6d4102d617a2faa961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 07:14:44</sys_updated_on>
+        <test_suite display_value="Experiment - Custom App">1921452fdb125410d147e5bd0b9619ec</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</application>
+        <file_path/>
+        <instance_id>de07355cdb3c581c431011f84896197d</instance_id>
+        <instance_name>sndpp905</instance_name>
+        <name>sys_atf_schedule_run_35efef80dbe6d4102d617a2faa961960</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'Experiment - Custom App' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="CICD adhoc schedule">f5ef2fc8dba6d4102d617a2faa961920</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-06 07:14:44</sys_created_on><sys_id>35efef80dbe6d4102d617a2faa961960</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Experiment - Custom App" source="x_rdsp_experiment">01ffbcabdb125410d147e5bd0b9619b2</sys_package><sys_policy/><sys_scope display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</sys_scope><sys_update_name>sys_atf_schedule_run_35efef80dbe6d4102d617a2faa961960</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-06 07:14:44</sys_updated_on><test_suite display_value="Experiment - Custom App">1921452fdb125410d147e5bd0b9619ec</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>-1057751238</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>9dfff0ebdb125410d147e5bd0b961923</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 07:14:44</sys_created_on>
+        <sys_id>f9efef80dbe6d4102d617a2faa961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173c29f467e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 07:14:44</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>35efef80b3e6d4108758b5a210053864</update_guid>
+        <update_guid_history>35efef80b3e6d4108758b5a210053864:-1057751238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 07:15:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>09d5e3cd1e2c4b9f82d44646d4d93861</sys_id>
+        <sys_metadata>35efef80dbe6d4102d617a2faa961960</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Experiment - Custom App" source="x_rdsp_experiment">01ffbcabdb125410d147e5bd0b9619b2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Experiment - Custom App">01ffbcabdb125410d147e5bd0b9619b2</sys_scope>
+        <sys_scope_delete display_value="">4b7ba4916c544008b783d0b1e8c4e010</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_35efef80dbe6d4102d617a2faa961960</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_35efef80dbe6d4102d617a2faa961960">f9efef80dbe6d4102d617a2faa961964</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 07:15:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
